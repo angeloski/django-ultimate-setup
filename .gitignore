@@ -1,0 +1,31 @@
+### OSX ###
+.DS_Store
+
+# Basics
+*.py[cod]
+__pycache__
+
+# Logs
+*.log
+pip-log.txt
+
+# Pycharm
+.idea
+
+# npm
+node_modules/
+
+# Compass
+.sass-cache
+
+# virtual environments
+.env
+
+# User-uploaded media
+./media/
+
+# Sqlight DB file
+db.*
+
+# Local .env file containing evironmental variables which should be set
+.env
